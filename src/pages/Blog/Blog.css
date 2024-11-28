@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+.blog_one {
+    width: 100%;
+    height: 360px;
+    background: url('../../img/Home/Team/Images_cuc.png');
+    background-repeat: no-repeat;
+    background-size: cover; /* Или 'contain', в зависимости от нужного результата */
+    background-position: center;
+}
+
+.Blog_h1 {
+    font-size: 50px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+}
+
+.Blog_Block {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Blog_left {
+    width: 569px;
+}
+
+.Blog_right {
+    width: 489px;
+    height: 375px;
+    padding: 45px;
+}
+
+.Blog_right_h1 {
+    font-size: 25px;
+    font-family: "DM Serif Display", serif;
+}
+
+.Blog_right_p {
+    font-size: 22px;
+    font-family: "Jost", serif;
+    color: #4D5053;
+}
+
+.Blog_div {
+    width: 100%;
+    display: flex;justify-content: space-between;
+    height: 52px;
+}
+
+.Blog_div_p {
+    font-size: 18px;
+    font-family: "Jost", serif;
+    color: #4D5053;
+    margin-top: 0;
+}
+
+/* SECTION 2 */
+
+.block_Blog {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.Blog_card {
+    width: 382px;
+    height: 521px;
+    border-radius: 62px;
+    border: 1px solid #E7E7E7;
+}
+
+.Card_Blog {
+    width: 340px;
+    height: 479px;
+    padding: 21px;
+}
+
+.Card_Blog_h1 {
+    font-size: 25px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+.page_div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 52px;
+    margin-top: 52px;
+}
+
+.page_ul {
+    width: 268px;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.page_li {
+    width: 52px;
+    height: 52px;
+    border-radius: 50px;
+    border: 1px solid #CDA274;
+    font-size: 16px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

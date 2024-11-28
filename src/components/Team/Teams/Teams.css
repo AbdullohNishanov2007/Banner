@@ -1,0 +1,19 @@
+.two {
+    margin-top: 200px;
+}
+
+.two_block {
+    width: 283px;
+    height: 550px;
+    text-align: center;
+}
+
+.two_h1 {
+    font-size: 25px;
+    color: #292F36;
+}
+
+.two_p {
+    font-size: 18px;
+    color: #292F36;
+}

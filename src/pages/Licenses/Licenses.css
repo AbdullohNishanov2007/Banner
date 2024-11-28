@@ -1,0 +1,17 @@
+.Licenses {
+    width: 100%;
+    height: 360px;
+    background: url('../../img/Home/Team/Contact_one.png');
+    background-repeat: no-repeat;
+    background-size: cover; /* Или 'contain', в зависимости от нужного результата */
+    background-position: center;
+}
+
+.licen {
+    width: 906px;
+}
+
+.Licen_img {
+    width: 100%;
+    display: flex;justify-content: space-between;
+}
